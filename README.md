@@ -1,6 +1,6 @@
-Olá, me chamo Jandira
+Olá, sou Jandira
 
-Curso Microsoft Azure
+Abaixo um exercício prático do Curso Microsoft Azure
 
 
 ## Processo
